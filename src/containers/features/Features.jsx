@@ -1,8 +1,6 @@
 import React from 'react'
 import './features.css';
-import bennett from '../../assets/bennett.jpg'
-import iitd from '../../assets/iitd.jpg'
-import iitb from '../../assets/iitb.jpg'
+// y
 // import aiims from '../../assets/aiims.jpg'
 // import bennett from '../../assets/bennett.jpg'
 // import bennett from '../../assets/bennett.jpg'
