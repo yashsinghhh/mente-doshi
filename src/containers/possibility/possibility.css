@@ -1,0 +1,10 @@
+.main-body{
+    color: aqua;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:black;
+padding: 20px;
+}
