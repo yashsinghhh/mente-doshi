@@ -1,12 +1,6 @@
 import React from 'react'
 import './features.css';
-// y
-// import aiims from '../../assets/aiims.jpg'
-// import bennett from '../../assets/bennett.jpg'
-// import bennett from '../../assets/bennett.jpg'
-// import bennett from '../../assets/bennett.jpg'
-// import bennett from '../../assets/bennett.jpg'
-// import bennett from '../../assets/bennett.jpg'
+
 import { GrLocationPin } from 'react-icons/ri';
 
 const Features = () => {

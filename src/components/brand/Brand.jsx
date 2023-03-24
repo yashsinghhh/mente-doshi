@@ -1,8 +1,6 @@
 import React from 'react'
 import './brand.css';
-// import google from '../../assets/google.png';
-// import slack from '../../assets/slack.png';
-// import shopify from '../../assets/shopify.png';
+
 
 
 

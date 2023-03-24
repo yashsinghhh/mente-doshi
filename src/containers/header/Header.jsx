@@ -1,7 +1,5 @@
 import React from 'react'
-// import './header.css';
 import ai from '../../assets/ai.png';
-// import people from '../../assets/people.png';
 import people from '../../assets/people.png'
 import college from '../../assets/college.png'
 import title from '../../assets/title.png'
