@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo.svg';
 import './navbar.css';
+import { Link } from 'react-router-dom';
+
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -15,7 +17,9 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
+          <link to="/notes_main">notes_main
           <p><a href="#wgpt3">Notes</a></p>
+          </link>
           <p><a href="#possibility">Reminders</a></p>
           <p><a href="#features">Routine</a></p>
           <p><a href="#blog">My Progress</a></p>
