@@ -17,15 +17,15 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">Notes</a></p>
+          <p><a href="https://gh.jgrimshaw.com/notes-app-tutorial/">Notes</a></p>
           <p><a href="#possibility">Reminders</a></p>
-          <p><a href="#features">Routine</a></p>
-          <p><a href="#blog">My Progress</a></p>
+          {/* <p><a href="#features">Routine</a></p> */}
+          {/* <p><a href="#blog">My Progress</a></p> */}
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        {/* <p>Sign in</p>
+        <button type="button">Sign up</button> */}
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu

@@ -12,7 +12,7 @@ const Features = () => {
                       <p class="title">HOW WAS YOUR DAY?</p>
                   </div>
                   <div class="flip-card-back">
-                      <button class="title">MY JOURNAL</button>
+                      <a href='https://gh.jgrimshaw.com/notes-app-tutorial/'><button class="title">MY JOURNAL</button></a>
                   </div>
               </div>
           </div>
